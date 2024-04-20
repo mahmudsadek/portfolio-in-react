@@ -1,0 +1,17 @@
+.btn-bla {
+  padding: 15px 30px;
+  background-color: #222222;
+  border: 1px solid #FFF;
+  color: #FFF;
+}
+
+.btn-bla:hover {
+  background-color: #FFF;
+  border: 1px solid #000;
+  color: #000;
+}
+
+a {
+  display: block;
+  text-decoration: none !important;
+}
