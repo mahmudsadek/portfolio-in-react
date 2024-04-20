@@ -1,0 +1,22 @@
+.about-me {
+  text-align: justify;
+  font-weight: 500;
+  display: flex;
+  flex-direction: column;
+}
+
+.btn-cv {
+  padding: 10px 60px;
+  margin: 20px 0px;
+  border: 1px solid #FFF;
+  background-color: #000;
+  text-decoration: none;
+  color: #fff;
+  width: 30%;
+}
+
+.btn-cv:hover {
+  border-color: #000;
+  background-color: #fff;
+  color: #000;
+}
