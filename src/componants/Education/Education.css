@@ -1,0 +1,12 @@
+.card {
+  height: 300px !important;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  margin: 10px;
+}
+
+.card-title {
+  padding: 20px 0px;
+  border-bottom: 4px solid;
+}
